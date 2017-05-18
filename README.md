@@ -1,5 +1,5 @@
 # News Talk 🗣
-Simple real-time [Laravel](https://laravel.com) application, with desktop applications powered by [Pusher](https://pusher.com/)
+Simple real-time [Laravel](https://laravel.com) application, with desktop notifications powered by [Pusher](https://pusher.com/)
 To test this app locally:
 1. Clone this repo -- `git clone https://github.com/olayinkaos/pusher-news-talk.git`.
 2. Copy `.env.example` to `.env` and configure your local environment variables, *especially the database and pusher settings*.
